@@ -1,0 +1,309 @@
+﻿Country,City,Dept_Name,Gender,Name,Count of NationalIDNumber
+Australia,Melbourne,Sales,F,Lynn N Tsoflias,1
+Canada,Calgary,Sales,M,Garrett R Vargas,1
+Canada,Ottawa,Sales,M,José Edvaldo Saraiva,1
+France,Bordeaux,Sales,M,Ranjit R Varkey Chudukatil,1
+Germany,Berlin,Sales,F,Rachel B Valdez,1
+India,Noida,Engineering,F,Amrita Singh,1
+India,Noida,Engineering,F,Bhawana Singh,1
+India,Noida,Engineering,F,Gitu Choudhari,1
+India,Noida,Engineering,F,Karishama Chauhan,1
+India,Noida,Engineering,F,Neha Singh,1
+India,Noida,Engineering,F,Pankaja Tiwari,1
+India,Noida,Engineering,F,Roshani Singh,1
+India,Noida,Engineering,F,Sandhya Singh,1
+India,Noida,Engineering,F,Snehil Srivastava,1
+India,Noida,Engineering,M,Alok Kumar,1
+India,Noida,Engineering,M,Arpit Sharma,1
+India,Noida,Engineering,M,Deepak Jain,1
+India,Noida,Engineering,M,Hari Narayan Panday,1
+India,Noida,Engineering,M,Harsh Singh Jora,1
+India,Noida,Engineering,M,Kartik Bhardwaj,1
+India,Noida,Engineering,M,Rahul Sharma,1
+India,Noida,Engineering,M,Rajesh Kumar,1
+India,Noida,Engineering,M,Vaibhav Singh,1
+United Kingdom,Cambridge,Sales,F,Jae B Pak,1
+United States,Bellevue,Engineering,F,Gail A Erickson,1
+United States,Bellevue,Human Resources,F,Paula M Barreto de Mattos,1
+United States,Bellevue,Information Services,M,Dan B Wilson,1
+United States,Bellevue,Marketing,F,Mary A Dempsey,1
+United States,Bellevue,Marketing,M,Terry J Eminhizer,1
+United States,Bellevue,Production,F,Linda K Moschell,1
+United States,Bellevue,Production,F,Olinda C Turner,1
+United States,Bellevue,Production,F,Rebecca A Laszlo,1
+United States,Bellevue,Production,F,Samantha H Smith,1
+United States,Bellevue,Production,F,Suchitra O Mohan,1
+United States,Bellevue,Production,M,Andy M Ruth,1
+United States,Bellevue,Production,M,Greg F Alderson,1
+United States,Bellevue,Production,M,Jason M Watters,1
+United States,Bellevue,Production,M,Kevin M Homer,1
+United States,Bellevue,Production,M,Kok-Ho T Loh,1
+United States,Bellevue,Production,M,Min G Su,1
+United States,Bellevue,Production,M,Nuan Yu,1
+United States,Bellevue,Production,M,Patrick C Wedge,1
+United States,Bellevue,Production,M,Paul B Komosinski,1
+United States,Bellevue,Production,M,Paul R Singh,1
+United States,Bellevue,Production,M,Rostislav E Shabalin,1
+United States,Bellevue,Production,M,Russell M King,1
+United States,Bellevue,Production,M,Shammi G Mohamed,1
+United States,Bellevue,Production,M,Shane S Kim,1
+United States,Bellevue,Production,M,Stuart V Munson,1
+United States,Bellevue,Production,M,Sylvester A Valdez,1
+United States,Bellevue,Production,M,Terrence W Earls,1
+United States,Bellevue,Production,M,William S Vong,1
+United States,Bellevue,Production Control,M,Peter J Krebs,1
+United States,Bellevue,Purchasing,F,Erin M Hagens,1
+United States,Bellevue,Purchasing,F,Linda P Meisner,1
+United States,Bellevue,Purchasing,M,Fukiko J Ogisu,1
+United States,Bellevue,Purchasing,M,Gordon L Hee,1
+United States,Bellevue,Purchasing,M,Reinout N Hillmann,1
+United States,Bellevue,Research and Development,F,Gigi N Matthew,1
+United States,Bellevue,Sales,M,David R Campbell,1
+United States,Bothell,Production,F,Belinda M Newman,1
+United States,Bothell,Production,F,Betsy A Stadick,1
+United States,Bothell,Production,F,Carol M Philips,1
+United States,Bothell,Production,M,Bob N Hohman,1
+United States,Bothell,Production,M,Brian Richard Goldstein,1
+United States,Bothell,Production,M,Chad W Niswonger,1
+United States,Bothell,Production,M,Christopher E Hill,1
+United States,Bothell,Purchasing,M,Mikael Q Sandberg,1
+United States,Bothell,Quality Assurance,M,Peng J Wu,1
+United States,Bothell,Sales,M,Syed E Abbas,1
+United States,Bothell,Shipping and Receiving,F,Kim T Ralls,1
+United States,Bothell,Shipping and Receiving,M,Vamsi N Kuppa,1
+United States,Bothell,Tool Design,M,Thierry B D'Hers,1
+United States,Cambridge,Sales,M,Tete A Mensa-Annan,1
+United States,Carnation,Production,F,Kim B Abercrombie,1
+United States,Carnation,Production,M,Don L Hall,1
+United States,Carnation,Production,M,Douglas B Hite,1
+United States,Carnation,Production,M,George Z Li,1
+United States,Carnation,Production,M,Jinghao K Liu,1
+United States,Detroit,Sales,M,Michael G Blythe,1
+United States,Duluth,Sales,F,Jillian Carson,1
+United States,Duvall,Production,F,Jo A Brown,1
+United States,Duvall,Production,F,Laura C Steele,1
+United States,Duvall,Production,M,Eric L Brown,1
+United States,Duvall,Production,M,Eugene O Kogan,1
+United States,Duvall,Production,M,John T Kane,1
+United States,Duvall,Production,M,John Y Chen,1
+United States,Duvall,Production,M,Mandar H Samant,1
+United States,Duvall,Production,M,Sameer A Tejani,1
+United States,Duvall,Production,M,Simon D Rapier,1
+United States,Duvall,Production,M,Stefen A Hesse,1
+United States,Edmonds,Production,F,Angela W Barbariol,1
+United States,Edmonds,Production,F,Britta L Simon,1
+United States,Edmonds,Production,F,Carole M Poland,1
+United States,Edmonds,Production,F,Lorraine O Nay,1
+United States,Edmonds,Production,F,Margie W Shoop,1
+United States,Edmonds,Production,M,Eric Gubbels,1
+United States,Edmonds,Production,M,Gabe B Mares,1
+United States,Edmonds,Production,M,Gary W Yukish,1
+United States,Edmonds,Production,M,Jim H Scardelis,1
+United States,Edmonds,Production,M,Krishna Sunkammurali,1
+United States,Edmonds,Production,M,Lolan B Song,1
+United States,Edmonds,Production,M,Maciej W Dusza,1
+United States,Edmonds,Production,M,Michael J Zwilling,1
+United States,Edmonds,Production,M,Michael L Rothkugel,1
+United States,Edmonds,Production,M,Michael T Vanderhyde,1
+United States,Edmonds,Production,M,Michael W Patten,1
+United States,Edmonds,Production,M,Mihail U Frintu,1
+United States,Edmonds,Production,M,Mindaugas J Krapauskas,1
+United States,Edmonds,Production,M,Rajesh M Patel,1
+United States,Edmonds,Production,M,Randy T Reeves,1
+United States,Edmonds,Production,M,Raymond K Sam,1
+United States,Edmonds,Production,M,Sidney M Higa,1
+United States,Edmonds,Production,M,Suroor R Fatima,1
+United States,Edmonds,Production,M,Taylor R Maxwell,1
+United States,Edmonds,Production,M,Thomas R Michaels,1
+United States,Everett,Finance,F,Deborah E Poe,1
+United States,Everett,Human Resources,M,Willis T Johnson,1
+United States,Everett,Marketing,F,Jill A Williams,1
+United States,Everett,Marketing,F,Mary E Gibson,1
+United States,Everett,Marketing,M,Kevin F Brown,1
+United States,Everett,Marketing,M,Sariya E Harnpadoungsataya,1
+United States,Everett,Production,F,Kathie E Flood,1
+United States,Everett,Production,F,Ruth Ann Ellerbrock,1
+United States,Everett,Production,F,Yvonne S McKay,1
+United States,Everett,Production,M,Andrew R Hill,1
+United States,Everett,Production,M,Jan S Miksovsky,1
+United States,Everett,Production,M,Jeff V Hay,1
+United States,Everett,Production,M,John N Frum,1
+United States,Everett,Production,M,Ken L Myer,1
+United States,Everett,Production,M,Steven T Selikoff,1
+United States,Everett,Production,M,Tom M Vande Velde,1
+United States,Everett,Production Control,M,Brian P LaMee,1
+United States,Everett,Research and Development,F,Diane L Margheim,1
+United States,Gold Bar,Facilities and Maintenance,M,Christian E Kleinerman,1
+United States,Gold Bar,Facilities and Maintenance,M,Pat H Coleman,1
+United States,Gold Bar,Finance,M,David J Liu,1
+United States,Gold Bar,Finance,M,Dragan K Tomic,1
+United States,Gold Bar,Human Resources,M,Grant N Culbertson,1
+United States,Index,Document Control,F,Karen R Berge,1
+United States,Index,Facilities and Maintenance,F,Jo L Berry,1
+United States,Index,Facilities and Maintenance,F,Lori K Penor,1
+United States,Index,Finance,F,Candy L Spoon,1
+United States,Index,Finance,M,Mike K Seamans,1
+United States,Issaquah,Document Control,M,Chris K Norred,1
+United States,Issaquah,Document Control,M,Sean N Chai,1
+United States,Issaquah,Document Control,M,Tengiz N Kharatishvili,1
+United States,Issaquah,Document Control,M,Zainal T Arifin,1
+United States,Issaquah,Human Resources,M,Hao O Chen,1
+United States,Issaquah,Information Services,F,Janaina Barreiro Gambaro Bueno,1
+United States,Issaquah,Information Services,F,Karen A Berg,1
+United States,Issaquah,Information Services,F,Stephanie A Conroy,1
+United States,Issaquah,Information Services,M,Ashvini R Sharma,1
+United States,Issaquah,Information Services,M,Dan K Bacon,1
+United States,Issaquah,Information Services,M,François P Ajenstat,1
+United States,Issaquah,Information Services,M,Peter I Connelly,1
+United States,Issaquah,Information Services,M,Ramesh V Meyyappan,1
+United States,Issaquah,Quality Assurance,M,Mark L Harrington,1
+United States,Issaquah,Sales,M,Brian S Welcker,1
+United States,Kenmore,Production,F,Cynthia S Randall,1
+United States,Kenmore,Production,F,Danielle C Tiedt,1
+United States,Kenmore,Production,F,Denise H Smith,1
+United States,Kenmore,Production,F,Diane H Tibbott,1
+United States,Kenmore,Production,F,Doris M Hartwig,1
+United States,Kenmore,Production,M,David N Johnson,1
+United States,Kenmore,Production,M,David P Hamilton,1
+United States,Kenmore,Production Control,M,Alan J Brewer,1
+United States,Kenmore,Quality Assurance,M,Hazem E Abolrous,1
+United States,Kenmore,Quality Assurance,M,Sootha T Charncherngkha,1
+United States,Kenmore,Research and Development,M,Dylan A Miller,1
+United States,Kenmore,Tool Design,M,Ovidiu V Cracium,1
+United States,Kent,Production,F,Elizabeth I Keyser,1
+United States,Memphis,Sales,M,Tsvi Michael Reiter,1
+United States,Minneapolis,Engineering,M,Rob Walters,1
+United States,Monroe,Production,F,Janeth M Esteves,1
+United States,Monroe,Production,F,Shelley N Dyck,1
+United States,Monroe,Production,M,Bryan Baker,1
+United States,Monroe,Production,M,David Oliver Lawrence,1
+United States,Monroe,Production,M,Guy R Gilbert,1
+United States,Monroe,Production,M,Ivo William Salmre,1
+United States,Monroe,Production,M,Jack S Richins,1
+United States,Monroe,Production,M,James D Kramer,1
+United States,Monroe,Production,M,James R Hamilton,1
+United States,Monroe,Production,M,Jay G Adams,1
+United States,Monroe,Production,M,Jeffrey L Ford,1
+United States,Monroe,Production,M,Jian Shuo Wang,1
+United States,Monroe,Production,M,Michael T Hines,1
+United States,Monroe,Production,M,Rob T Caron,1
+United States,Nevada,Sales,F,Linda C Mitchell,1
+United States,Newport Hills,Executive,M,Ken J Sánchez,1
+United States,Newport Hills,Finance,M,Bryan A Walton,1
+United States,Newport Hills,Finance,M,David M Barber,1
+United States,Newport Hills,Human Resources,F,Mindy C Martin,1
+United States,Newport Hills,Human Resources,M,Vidur X Luthra,1
+United States,Newport Hills,Production,M,Alex M Nayberg,1
+United States,Newport Hills,Production Control,M,A. Scott Wright,1
+United States,Portland,Sales,F,Pamela O Ansman-Wolfe,1
+United States,Redmond,Engineering,M,Roberto Tamburello,1
+United States,Redmond,Information Services,F,Jean E Trenary,1
+United States,Redmond,Marketing,M,David M Bradley,1
+United States,Redmond,Marketing,M,John L Wood,1
+United States,Redmond,Production,F,Anibal T Sousa,1
+United States,Redmond,Production,F,Diane R Glimp,1
+United States,Redmond,Production,F,Lori A Kane,1
+United States,Redmond,Production,M,Brandon G Heidepriem,1
+United States,Redmond,Production,M,Chris O Okelberry,1
+United States,Redmond,Production,M,Hanying P Feng,1
+United States,Redmond,Production,M,Houman N Pournasseh,1
+United States,Redmond,Production,M,Jun T Cao,1
+United States,Redmond,Production,M,Mark K McArthur,1
+United States,Redmond,Production,M,Michael T Entin,1
+United States,Redmond,Production,M,Prasanna E Samarawickrama,1
+United States,Redmond,Production,M,Reed T Koch,1
+United States,Redmond,Production Control,M,Sairaj L Uddin,1
+United States,Redmond,Purchasing,F,Annette L Hill,1
+United States,Redmond,Purchasing,M,Ben T Miller,1
+United States,Redmond,Sales,M,Stephen Y Jiang,1
+United States,Redmond,Tool Design,F,Janice M Galvin,1
+United States,Renton,Engineering,F,Sharon B Salavaria,1
+United States,Renton,Engineering,F,Terri Lee Duffy,1
+United States,Renton,Engineering,M,Jossef H Goldberg,1
+United States,Renton,Engineering,M,Michael I Sullivan,1
+United States,Renton,Executive,F,Laura F Norman,1
+United States,Renton,Facilities and Maintenance,M,Gary E. Altman,1
+United States,Renton,Facilities and Maintenance,M,Magnus E Hedlund,1
+United States,Renton,Facilities and Maintenance,M,Stuart J Macrae,1
+United States,Renton,Purchasing,M,Arvind B Rao,1
+United States,Renton,Purchasing,M,Eric S Kurjan,1
+United States,Renton,Purchasing,M,Frank S Pellow,1
+United States,Renton,Quality Assurance,M,Andreas T Berglund,1
+United States,Renton,Quality Assurance,M,Sean P Alexander,1
+United States,Renton,Sales,F,Amy E Alberts,1
+United States,Renton,Shipping and Receiving,F,Susan W Eaton,1
+United States,Renton,Shipping and Receiving,M,Jimmy T Bischoff,1
+United States,Renton,Shipping and Receiving,M,Matthias T Berndt,1
+United States,Sammamish,Finance,F,Janet L Sheperdigian,1
+United States,Sammamish,Finance,F,Wendy Beth Kahn,1
+United States,Sammamish,Marketing,F,Sheela H Word,1
+United States,Sammamish,Marketing,F,Wanida M Benshoof,1
+United States,Sammamish,Production,F,Barbara S Decker,1
+United States,Sammamish,Production,F,Nancy A Anderson,1
+United States,Sammamish,Production,F,Susan A Metters,1
+United States,Sammamish,Production,M,Andrew M Cencini,1
+United States,Sammamish,Production,M,Charles B Fitzgerald,1
+United States,Sammamish,Production,M,Ebru N Ersan,1
+United States,Sammamish,Production,M,Eugene R Zabokritski,1
+United States,Sammamish,Production,M,Hung-Fu T Ting,1
+United States,Sammamish,Production,M,Marc J Ingle,1
+United States,Sammamish,Production,M,Michiko F Osada,1
+United States,Sammamish,Production,M,Nitin S Mirchandani,1
+United States,Sammamish,Production,M,Ryan L Cornelsen,1
+United States,Sammamish,Production,M,Sandeep P Kaliyath,1
+United States,San Francisco,Research and Development,M,Michael Raheem,1
+United States,San Francisco,Sales,M,Shu K Ito,1
+United States,Seattle,Finance,F,Barbara C Moreland,1
+United States,Seattle,Production,F,Brenda M Diaz,1
+United States,Seattle,Production,F,JoLynn M Dobney,1
+United States,Seattle,Production,F,Katie L McAskill-White,1
+United States,Seattle,Production,F,Kimberly B Zimmerman,1
+United States,Seattle,Production,F,Kitti H Lertpiriyasuwat,1
+United States,Seattle,Production,F,Linda A Randall,1
+United States,Seattle,Production,F,Mary R Baker,1
+United States,Seattle,Production,F,Merav A Netz,1
+United States,Seattle,Production,F,Nicole B Holliday,1
+United States,Seattle,Production,F,Paula R Nartker,1
+United States,Seattle,Production,F,Sandra Reátegui Alayo,1
+United States,Seattle,Production,M,Alejandro E McGuel,1
+United States,Seattle,Production,M,Annik O Stahl,1
+United States,Seattle,Production,M,Baris F Cetinok,1
+United States,Seattle,Production,M,Bjorn M Rettig,1
+United States,Seattle,Production,M,Chris T Preston,1
+United States,Seattle,Production,M,Cristian K Petculescu,1
+United States,Seattle,Production,M,David A Yalovsky,1
+United States,Seattle,Production,M,David J Ortiz,1
+United States,Seattle,Production,M,Ed R Dudenhoefer,1
+United States,Seattle,Production,M,Frank T Lee,1
+United States,Seattle,Production,M,Jack T Creasey,1
+United States,Seattle,Production,M,John P Evans,1
+United States,Seattle,Production,M,John T Campbell,1
+United States,Seattle,Production,M,Jose R Lugo,1
+United States,Seattle,Production,M,Karan R Khanna,1
+United States,Seattle,Production,M,Kendall C Keil,1
+United States,Seattle,Production,M,Kevin H Liu,1
+United States,Seattle,Production,M,Kirk J Koenigsbauer,1
+United States,Seattle,Production,M,Lane M Sacksteder,1
+United States,Seattle,Production,M,Lionel C Penuchot,1
+United States,Seattle,Production,M,Michael Sean Ray,1
+United States,Seattle,Production,M,Patrick M Cook,1
+United States,Seattle,Production,M,Pete C Male,1
+United States,Seattle,Production,M,Reuben H D'sa,1
+United States,Seattle,Production,M,Robert J Rounthwaite,1
+United States,Seattle,Production,M,Russell Hunter,1
+United States,Seattle,Production,M,Scott R Gode,1
+United States,Seattle,Production,M,Steve F Masters,1
+United States,Seattle,Production,M,Tawana G Nusbaum,1
+United States,Seattle,Production,M,Yuhong L Li,1
+United States,Seattle,Production,M,Zheng W Mu,1
+United States,Seattle,Shipping and Receiving,M,Pilar G Ackerman,1
+United States,Snohomish,Production,F,Alice O Ciccu,1
+United States,Snohomish,Production,F,Bonnie N Kearney,1
+United States,Snohomish,Production,M,Barry K Johnson,1
+United States,Snohomish,Production,M,Benjamin R Martin,1
+United States,Snohomish,Production,M,Brian T Lloyd,1
+United States,Snohomish,Production,M,Fadi K Fakhouri,1
+United States,Snohomish,Production,M,Frank R Martinez,1
+United States,Snohomish,Production,M,Frank T Miller,1
+United States,Snohomish,Production,M,Fred T Northup,1
+United States,Snohomish,Production,M,Garrett R Young,1
